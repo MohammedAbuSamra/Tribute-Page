@@ -16,10 +16,9 @@
   background-color: #d3bdb0;
   padding: 1rem;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: center;
   color: #69385c;
-  font-size: 1.5rem;
 }
 
 .main {
@@ -37,16 +36,15 @@
 }
 
 img {
-  width: 450px;
-  height: 450px;
-  border-radius: 50%;
+  max-width: 400px;
+  border-radius: 20%;
   object-fit: cover;
 }
 
 .paragraph-section {
   background-color: #89937c;
-  font-size: 1.5rem;
-  padding: 2rem 8rem;
+  font-size: 1.2rem;
+  padding: 2rem 2rem;
 }
 
 .paragraph-section p {
@@ -56,7 +54,7 @@ img {
 .list-section {
   background-color: #69385c;
   font-size: 1.5rem;
-  padding: 2rem 8rem;
+  padding: 2rem 2rem;
   color: #fff;
 }
 
