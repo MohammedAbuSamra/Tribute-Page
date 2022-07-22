@@ -47,6 +47,21 @@ img {
 .paragraph-section p {
   margin: 1rem;
 }
+.list-section {
+  background-color: #69385c;
+  font-size: 1.5rem;
+  padding: 2rem 8rem;
+  color: #fff;
+}
+.list-section ul {
+  list-style: none;
+  padding: 1rem;
+}
+.list-section li {
+  padding: 0.5rem;
+  color: #c1ae9f;
+  font-weight: 600;
+}
 .footer {
   width: 100%;
   background-color: #715b64;
